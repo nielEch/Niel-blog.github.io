@@ -1,0 +1,62 @@
+.pic1{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.lantaw{
+position: relative;
+width: 650px;
+height: 500px;
+}
+.pic2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.miracleart{
+    position: relative;
+    width: 650px;
+    height: 500px;
+}
+.pic4{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.roses{
+    position: relative;
+    width: 650px;
+    height: 500px;
+}
+.pic3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.solea{
+    position: relative;
+    width: 650px;
+    height: 500px;
+}
+.pic5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parola{
+    position: relative;
+    width: 650px;
+    height: 500px;
+}
+.home{
+    position: relative;
+    font-style: italic;
+    font-size: 20px;
+    background-color: gray;
+}
+.homee{
+position: relative;
+font-size: 20px;
+top: 20px;
+left: 50px;
+}
