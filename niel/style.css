@@ -1,0 +1,35 @@
+.pic1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.plaza{
+    position: relative;
+    width: 650px;
+    height: 500px;
+    
+    
+}
+.pic2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.church{
+    position: relative;
+    width: 650px;
+    height: 500px;
+    
+}
+.homee{
+    position: relative;
+    font-size: 20px;
+}
+.home{
+    position: relative;
+    font-size: 20px;
+    background-color: gray;
+    left: 55px;
+    top: 25px;
+}
+
